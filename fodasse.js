@@ -1,0 +1,1 @@
+ReactDOM.render(<h2>Uau que linguagem dificil</h2>, document.getElementById("rg"))
